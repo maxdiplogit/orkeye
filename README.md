@@ -1,3 +1,3 @@
 # OrkEye
 
-Multi-Tenant Container Orchestrator and Observability Platform.
+Self-Hosted Multi-Tenant Container Orchestrator and Observability Platform.
